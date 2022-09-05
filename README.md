@@ -1,0 +1,2 @@
+# AbstractPurpleSplash
+KDE Plasma Splashscreen
